@@ -6,5 +6,9 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input("จำนวนที่1"))
+b = int(input("จำนวนที่2"))
+total = a+b
+print("input("ผลบวกของสองจำนวน:"))
+int("input("ตัวเลข a")
+int("input("ตัวเลข b")
