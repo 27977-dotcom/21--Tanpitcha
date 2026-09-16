@@ -7,3 +7,4 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 password = input()
+total(input(
